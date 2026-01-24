@@ -2,7 +2,7 @@
 
 If you need help or want to report a bug, contact:
 
-**Email:** [your email address]
+**Email:** notethat@gmail.com
 
 Common topics:
 - Sign in / Guest mode
