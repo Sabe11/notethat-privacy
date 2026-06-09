@@ -13,7 +13,7 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <h1>Your App Name</h1>
+      <h1>Note That</h1>
       <p class="tagline">Support, FAQs, and contact</p>
       <nav class="nav">
         <a href="index.html">Support</a>
@@ -26,7 +26,7 @@
     <section class="card">
       <h2>Need help?</h2>
       <p>
-        Welcome to the support page for <strong>Your App Name</strong>. If you’re experiencing an issue or have a question,
+        Welcome to the support page for <strong>NoteThat</strong>. If you’re experiencing an issue or have a question,
         check the FAQs below or reach out directly.
       </p>
       <p>
